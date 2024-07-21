@@ -43,7 +43,6 @@ const LoginForm: React.FC = () => {
             type="email"
             value={email}
             onChange={handleEmailChange}
-            // fullWidth
             margin="normal"
             variant="outlined"
              error={!!emailError}

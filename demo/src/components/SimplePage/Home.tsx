@@ -1,4 +1,4 @@
-// src/components/Home.tsx
+
 import React from 'react';
 import { Typography, Container } from '@mui/material';
 

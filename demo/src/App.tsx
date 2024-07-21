@@ -8,7 +8,7 @@ import Page from './components/SimplePage/Page';
 function App() {
   return (
     <div className="App">
-        {/* <LoginForm/> */}
+        <LoginForm/>
        <Page/>
        
     </div>
