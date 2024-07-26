@@ -7,7 +7,6 @@ import ActivePerson from './components/ActivePerson';
 function App() {
   return (
     <div className="App">
-      
       <InputDisplay/>
       <ActivePerson/>
     </div>
